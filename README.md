@@ -1,5 +1,5 @@
 # LBG-practises
-Code from the exercises on Cidility
+Code from the exercises on Codility
 
 Exercises: 
 1 - binarygap.py :
