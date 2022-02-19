@@ -1,4 +1,3 @@
-#%%
 """
 N is an integer number.
 Converted into binarystring using bin()
@@ -11,4 +10,4 @@ def solution(N):
     binary = bin(N)[2:].strip("0").split("1")
     size = [len(i) for i in binary]
     return max(size)
-# %%
+
