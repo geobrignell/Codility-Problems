@@ -33,4 +33,11 @@ Exercises:
                 -40 + 30 = 70
                 -70 + 30 = 100
             returns the amount of jumps, 3.
+
+5 - missingelement.py :
+    Finds the missing integer in an array [1 , ... , (N+1)].
+    Inputs : A, Integer array with missing value.
+    Returns : Missing Value.
+    Example : A = [1,2,3,4,6], returns 5.
+
 -By George Brignell-Cash
